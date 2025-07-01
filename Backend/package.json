@@ -1,0 +1,30 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvind6206/bookStore-App.git"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvind6206/bookStore-App/issues"
+  },
+  "homepage": "https://github.com/arvind6206/bookStore-App#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "js": "^0.1.0",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.1"
+  }
+}

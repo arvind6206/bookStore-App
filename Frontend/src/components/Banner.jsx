@@ -38,7 +38,7 @@ function Banner() {
               Enter valid email address
             </div>
           </div>
-          <button className="btn btn-secondary mt-6">Secondary</button>
+          <button className="btn btn-secondary mt-6">Get Started</button>
         </div>
 
         <div className="w-full md:w-1/2 flex justify-center items-center mt-10 md:mt-0">
